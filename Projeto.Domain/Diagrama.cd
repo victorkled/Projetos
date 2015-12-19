@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Projeto.Domain.Services.DomainServiceBase&lt;TEntity&gt;">
+    <Position X="2.25" Y="7.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgQAAAECAAAAAAAAAAAAAAAAAAgAIAAAAA=</HashCode>
+      <FileName>Services\DomainServiceBase.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="repositorio" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Projeto.Domain.Contracts.Repository.IRepositoryBase&lt;TEntity&gt;">
+    <Position X="5.5" Y="7.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAACAAAAAAAAAQAAAAAAEBAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\Repository\IRepositoryBase.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
